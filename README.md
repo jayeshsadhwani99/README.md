@@ -7,9 +7,9 @@ Full Stack Developer
 Working as a freelancer, then an educator, a problem creator and now most recently a software engineer, have experience in majorly React, Node, Django, PostgreSQL, MongoDB and AWS.
 
 * 🌍  I'm based in Bangalore
-* 🖥️  See my portfolio at [Portfolio](http://jayeshsadhwani99.com)
+* 🖥️  See my portfolio at [Portfolio](http://jayeshsadhwani.com)
 * ✉️  You can contact me at [jayeshsadhwani99@gmail.com](mailto:jayeshsadhwani99@gmail.com)
-* 🚀  I'm currently working on [DrDroid](http://github.com/DrDroidLabs/Playbooks)
+* 🚀  I'm currently working on [DrDroid](http://github.com/DrDroidLab/Playbooks)
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
